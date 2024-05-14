@@ -1,0 +1,26 @@
+body{
+   background-color: #00cc00;
+     text-align: center;
+}
+h3{ 
+    color: aliceblue;
+    font-size:75px;
+     margin : 150px;
+}
+div{
+  color: pink;
+}
+img {
+   padding: 5px 15px 30px;
+}
+
+p{
+    color: pink;
+    font-size: 41px;
+}
+@media (max-width:500px) {
+  h3{
+     transform: 2rem;
+  }
+}
+  
